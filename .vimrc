@@ -4,6 +4,7 @@ Plug 'preservim/nerdtree'
 Plug 'morhetz/gruvbox'
 Plug 'itchyny/lightline.vim'
 Plug 'airblade/vim-gitgutter'
+Plug 'davidhalter/jedi-vim'
 
 call plug#end()
 
